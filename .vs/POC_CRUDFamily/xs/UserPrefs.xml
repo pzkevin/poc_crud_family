@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{9B0807D9-D6E5-4BFE-A6DE-73E495233EB8}|Default">
+  <MonoDevelop.Ide.ItemProperties.POC__CRUDFamily PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="POC_CRUDFamily/Program.cs">
+    <Files>
+      <File FileName="POC_CRUDFamily/Program.cs" Line="70" Column="1" />
+      <File FileName="POC_CRUDFamily/App/CRUD.cs" Line="368" Column="1" />
+      <File FileName="POC_CRUDFamily/Users/User.cs" />
+      <File FileName="POC_CRUDFamily/Users/Admin.cs" />
+      <File FileName="POC_CRUDFamily/Users/Cashier.cs" />
+      <File FileName="POC_CRUDFamily/App/DataCollection.cs" Line="9" Column="42" />
+      <File FileName="POC_CRUDFamily/App/Types.cs" Line="16" Column="6" />
+      <File FileName="POC_CRUDFamily/App/SearchCollection.cs" Line="19" Column="27" />
+      <File FileName="POC_CRUDFamily/App/LogicOperator.cs" Line="9" Column="1" />
+      <File FileName="POC_CRUDFamily/App/CriteriaOperator.cs" Line="12" Column="13" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="POC_CRUDFamily" expanded="True">
+            <Node name="POC_CRUDFamily" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="App" expanded="True" />
+              <Node name="Users" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/aloncello/code/dotNET/poo/POC_CRUDFamily/POC_CRUDFamily/Program.cs" relfile="POC_CRUDFamily/Program.cs" line="63" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
